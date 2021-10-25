@@ -6,10 +6,10 @@
 
 ### Semana 04
 
--Javascript
--variables and operators
--strings
--arrays
--conditionals
--loops
--functions
+- Javascript
+- variables and operators
+- strings
+- arrays
+- conditionals
+- loops
+- functions
